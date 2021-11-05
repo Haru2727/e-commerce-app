@@ -2,10 +2,10 @@
 
 function App() {
   return (
-    <div class="grid-container">
-    <header class="row">
+    <div className="grid-container">
+    <header className="row">
         <div>
-            <a class="brand" href="index.html">E-Sales</a>
+            <a className="brand" href="index.html">E-Sales</a>
         </div>
         <div>
             <a href="cart.html">Cart</a>
@@ -13,134 +13,134 @@ function App() {
         </div>
     </header>
     <main>
-        <div class="row center">
-            <div class="card">
+        <div className="row center">
+            <div className="card">
                 <a href="product.html">
                     
-                    <img class="medium" src="./images/p1.jpg" alt="product"/>
+                    <img className="medium" src="./images/p1.jpg" alt="product"/>
                 </a>
-                <div class="card-body">
+                <div className="card-body">
                     <a href="product.html">
                         <h2>Product for sale</h2>
                     </a>
-                    <div class="rating">
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i>  </span>
-                        <span> <i class="fa fa-star"></i> </span>
+                    <div className="rating">
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i>  </span>
+                        <span> <i className="fa fa-star"></i> </span>
                     </div>
-                    <div class="price">
+                    <div className="price">
                         $200
                     </div>
                 </div>
             </div>
 
-            <div class="card">
+            <div className="card">
                 <a href="product.html">
                     
-                    <img class="medium" src="./images/p1.jpg" alt="product"/>
+                    <img className="medium" src="./images/p1.jpg" alt="product"/>
                 </a>
-                <div class="card-body">
+                <div className="card-body">
                     <a href="product.html">
                         <h2>Product for sale</h2>
                     </a>
-                    <div class="rating">
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i>  </span>
-                        <span> <i class="fa fa-star"></i> </span>
+                    <div className="rating">
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i>  </span>
+                        <span> <i className="fa fa-star"></i> </span>
                     </div>
-                    <div class="price">
+                    <div className="price">
                         $200
                     </div>
                 </div>
             </div>
 
-            <div class="card">
+            <div className="card">
                 <a href="product.html">
                     
-                    <img class="medium" src="./images/p1.jpg" alt="product"/>
+                    <img className="medium" src="./images/p1.jpg" alt="product"/>
                 </a>
-                <div class="card-body">
+                <div className="card-body">
                     <a href="product.html">
                         <h2>Product for sale</h2>
                     </a>
-                    <div class="rating">
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i>  </span>
-                        <span> <i class="fa fa-star"></i> </span>
+                    <div className="rating">
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i>  </span>
+                        <span> <i className="fa fa-star"></i> </span>
                     </div>
-                    <div class="price">
+                    <div className="price">
                         $200
                     </div>
                 </div>
             </div>
 
-            <div class="card">
+            <div className="card">
                 <a href="product.html">
                     
-                    <img class="medium" src="./images/p1.jpg" alt="product"/>
+                    <img className="medium" src="./images/p1.jpg" alt="product"/>
                 </a>
-                <div class="card-body">
+                <div className="card-body">
                     <a href="product.html">
                         <h2>Product for sale</h2>
                     </a>
-                    <div class="rating">
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i>  </span>
-                        <span> <i class="fa fa-star"></i> </span>
+                    <div className="rating">
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i>  </span>
+                        <span> <i className="fa fa-star"></i> </span>
                     </div>
-                    <div class="price">
+                    <div className="price">
                         $200
                     </div>
                 </div>
             </div>
 
-            <div class="card">
+            <div className="card">
                 <a href="product.html">
                     
-                    <img class="medium" src="./images/p1.jpg" alt="product"/>
+                    <img className="medium" src="./images/p1.jpg" alt="product"/>
                 </a>
-                <div class="card-body">
+                <div className="card-body">
                     <a href="product.html">
                         <h2>Product for sale</h2>
                     </a>
-                    <div class="rating">
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i>  </span>
-                        <span> <i class="fa fa-star"></i> </span>
+                    <div className="rating">
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i>  </span>
+                        <span> <i className="fa fa-star"></i> </span>
                     </div>
-                    <div class="price">
+                    <div className="price">
                         $200
                     </div>
                 </div>
             </div>
 
-            <div class="card">
+            <div className="card">
                 <a href="product.html">
                     
-                    <img class="medium" src="./images/p1.jpg" alt="product"/>
+                    <img className="medium" src="./images/p1.jpg" alt="product"/>
                 </a>
-                <div class="card-body">
+                <div className="card-body">
                     <a href="product.html">
                         <h2>Product for sale</h2>
                     </a>
-                    <div class="rating">
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i> </span>
-                        <span> <i class="fa fa-star"></i>  </span>
-                        <span> <i class="fa fa-star"></i> </span>
+                    <div className="rating">
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
+                        <span> <i className="fa fa-star"></i>  </span>
+                        <span> <i className="fa fa-star"></i> </span>
                     </div>
-                    <div class="price">
+                    <div className="price">
                         $200
                     </div>
                 </div>
@@ -148,7 +148,7 @@ function App() {
 
         </div>
     </main>
-    <footer class="row center">All Rights Reserved.</footer>
+    <footer className="row center">All Rights Reserved.</footer>
 </div>
   );
 }
