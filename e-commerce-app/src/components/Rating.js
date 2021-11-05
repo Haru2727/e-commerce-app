@@ -41,6 +41,10 @@ export default function Rating(props) {
             ?'fa fa-star-half-0'
             :'fa fa-star-o'}>
             </i> </span>
+
+            <span>
+                {numReviews + 'reviews'}
+            </span>
     </div>
     )
 }
