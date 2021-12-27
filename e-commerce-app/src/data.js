@@ -1,9 +1,9 @@
-import Product1 from '../src/images/p1.jpg';
-import Product2 from '../src/images/p2.jpg';
-import Product3 from '../src/images/p3.jpg';
-import Product4 from '../src/images/p4.jpg';
-import Product5 from '../src/images/p5.jpg';
-import Product6 from '../src/images/p6.jpg';
+import Product1 from './images/p1.jpg';
+import Product2 from './images/p2.jpg';
+import Product3 from './images/p3.jpg';
+import Product4 from './images/p4.jpg';
+import Product5 from './images/p5.jpg';
+import Product6 from './images/p6.jpg';
 
 
 
