@@ -7,7 +7,7 @@ import Product6 from './images/p6.jpg';
 
 
 
-// moved it from the public folder into the src and used the backtick to get it to show up on product page
+
 const data = {
     products: [
         {
@@ -16,7 +16,7 @@ const data = {
             category: 'New Arrivals',
             image: `${Product1}`,
             price: '200',
-            countInStock: 10,
+            countInStock: 10, 
             brand: 'New Arrivals',
             rating: '4.0',
             numReviews: '11',
